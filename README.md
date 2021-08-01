@@ -9,34 +9,36 @@ Se utilizo de React Hooks (useState, useEffect) y Redux con Ducks para el manejo
 
 ### Uso:
 
-`` sh
-
+```sh
 $ git clone https://github.com/Pablo-DiazTassara/Weather-Forecast.git
 $ cd Weather-Forecas
 $ npm install
-
-''
+}
+```
 
 * Obtener KEY para la APIs de pronostico en https://openweathermap.org/api
 
 * Crear el archivo .env en el directorio raíz del proyecto con el siguiente contenido:
-
+```sh
+{
 > REACT_APP_PATHNAME=YOUR_PATH_SERVER (ej: http://localhost:3000) <br>
 > REACT_APP_API_KEY=YOUR_OPENWEATHERMAP_API_KEY <br>
 > REACT_APP_URL_WEATHER=https://api.openweathermap.org/data/2.5/ <br>
 > REACT_APP_LANG=es <br>
 > REACT_APP_UNIT=metric
+}
+```
 
  ### Ejecuta tu aplicación:
  
- `` sh
+```sh
  $ npm run start (O $ yarn run start)
- ''
+```
 Se podrá acceder a la aplicación en `http://localhost:3000`
 
 ### Crea tu aplicación:
 
-`` sh
+```sh
 $ npm run build: prod (O $ yarn run build: prod)
-''
+```
 * Se generará el compilado en la carpeta build.
