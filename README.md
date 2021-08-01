@@ -12,6 +12,7 @@ Se utilizo de React Hooks (useState, useEffect) y Redux con Ducks para el manejo
 $ git clone https://github.com/Pablo-DiazTassara/Weather-Forecast.git
 $ cd Weather-Forecas
 $ npm install
+
 ''
 
 * Obtener KEY para la APIs de pronostico en https://openweathermap.org/api
