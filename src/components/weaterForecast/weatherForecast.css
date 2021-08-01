@@ -1,0 +1,8 @@
+.main{
+    margin-top: 50px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+  }

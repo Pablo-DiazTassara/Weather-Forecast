@@ -1,0 +1,84 @@
+
+[
+    {
+        "id": 3435910,
+        "name": "Buenos Aires",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -58.377232,
+            "lat": -34.613152
+        }
+    },
+    {
+        "id": 3433955,
+        "name": "Ciudad Autónoma de Buenos Aires",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -58.450001,
+            "lat": -34.599998
+        }
+    },
+    {
+        "id": 5368361,
+        "name": "Los Angeles",
+        "state": "CA",
+        "country": "US",
+        "coord": {
+            "lon": -118.243683,
+            "lat": 34.052231
+        }
+    },
+    {
+        "id": 3428644,
+        "name": "San Miguel",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -57.589642,
+            "lat": -27.99585
+        }
+    },
+    {
+        "id": 3427833,
+        "name": "Tandil",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -59.13316,
+            "lat": -37.321671
+                }
+    },
+    {
+        "id": 3834450,
+        "name": "Tierra del Fuego Province",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.0,
+            "lat": -54.5
+        }
+    },
+    {
+        "id": 3427761,
+        "name": "Tigre",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -58.57962,
+            "lat": -34.426029
+                }
+    },    
+    {
+        "id": 3427213,
+        "name": "Zárate",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -59.02858,
+            "lat": -34.098141
+                }
+    }  
+    
+]
