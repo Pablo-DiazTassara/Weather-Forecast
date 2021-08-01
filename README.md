@@ -8,7 +8,9 @@ Se utilizo de React Hooks (useState, useEffect) y Redux con Ducks para el manejo
 * 0.1.0
 
 ### Uso:
+
 `` sh
+
 $ git clone https://github.com/Pablo-DiazTassara/Weather-Forecast.git
 $ cd Weather-Forecas
 $ npm install
