@@ -1,5 +1,5 @@
 # Aplicación meteorológica
-<img src = "https://ibb.co/Bqfr6fB" alt = "Aplicación del clima React" style = "width: 500px; margin: 10px auto" />
+<img src = "https://i.ibb.co/bz62v6X/app.png" alt = "Aplicación del clima React" style = "width: 500px; margin: 10px auto" />
 
 Aplicación meteorológica creada con ReactJS. Reconoce automáticamente la ubicación del usuario, según la configuración del navegador. Tambien se puede seleccionar 6 ubicaciones mas para ver su clima.
 Se utilizo de React Hooks (useState, useEffect) y Redux con Ducks para el manejo del estado (Ducks es una forma de modularizar partes de una aplicación de Redux juntando reducers, acciones y constantes juntos de una forma fácil de entender y portar.).
