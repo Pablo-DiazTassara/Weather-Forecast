@@ -43,4 +43,3 @@ $ npm run build: prod (O $ yarn run build: prod)
 ```
 * Se generará el compilado en la carpeta build.
 
-Hola Agus!
